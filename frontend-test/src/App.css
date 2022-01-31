@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+}
+
+.contentWrapper {
+  padding-top: 100px;
+  display: flex !important;
+  flex-wrap: wrap;
+  justify-content: center;
+}
